@@ -1,0 +1,89 @@
+body{
+    background: url(https://w.forfun.com/fetch/78/78d1b5621e2628496c180c32580c3f2f.jpeg);
+}
+ .div1{
+    background: rgb(160,216,239);
+background: -moz-linear-gradient(top,  rgb(160,216,239) 0%, rgb(23,38,137) 51%, rgb(23,38,137) 100%);
+background: -webkit-linear-gradient(top,  rgb(160,216,239) 0%,rgb(23,38,137) 51%,rgb(23,38,137) 100%);
+background: linear-gradient(to bottom,  rgb(160,216,239) 0%,rgb(23,38,137) 51%,rgb(23,38,137) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a0d8ef', endColorstr='#172689',GradientType=0 );
+margin-top: 50px;
+margin-left: 370px;
+margin-right: 370px;
+}
+.n_p{
+    font-family:serif;
+    font-size: 25px;
+}
+ol{
+    color: red;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+li{
+    font-size: 25px;
+}
+.crucian{
+    width: 480px;
+}
+.fish-hedgehoge{
+    width: 480px;
+}
+.fish-parrot{
+    width: 480px;
+}
+.fish-surgeon{
+    width: 480px;
+}
+.fish-sword{
+    width: 480px;
+}
+.fish-zebra{
+width: 480px;
+}
+.giant-shark-hammer{
+    width: 480px;
+}
+.jellifish{
+    width: 480px;
+}
+.octopus{
+    width: 480px;
+}
+.pike{
+    width: 490px;
+}
+.sailfish{
+    width: 480px;
+}
+.salmon{
+    width: 480px;
+}
+.sea-urchin{
+    width: 480px;
+}
+.sponge{
+    width: 490px;
+}
+.starfish{
+    width: 480px;
+}
+.turtle{
+    width: 480px;
+}
+footer{
+    background: linear-gradient(blueviolet,skyblue);
+    font-size: 19px;
+}
+.telegramm{
+    width: 40px;
+}
+.text{
+    font-size: 20px;
+}
+header h1{
+    display: flex;
+    justify-content: center;
+}
